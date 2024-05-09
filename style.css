@@ -1,0 +1,33 @@
+body{
+    background-color: lightcyan;
+}
+#headerDiv{
+    background-color: aquamarine;
+}
+h2{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    margin-top: 15px;
+
+}
+#start{
+    color: white;
+    margin-top:25px;
+    width:100px;
+    font-weight: 100;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.copy_right_footer{
+    font-size: 30px;
+    line-height: 80%;
+    text-shadow: 2px 2px lightskyblue;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
